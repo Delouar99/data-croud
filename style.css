@@ -1,0 +1,23 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a,
+a:hover{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
+
+.devs{
+    width: 1000px;
+    margin: 100px auto 0px;
+}
+
+body{
+    background-color: #e9e9e9;
+}
